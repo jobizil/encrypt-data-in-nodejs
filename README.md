@@ -1,3 +1,5 @@
+# Encrypting and Decrypting Data in Nodejs
+
 This tutorial aims at teaching you how to encrypt and decrypt data in nodejs.
 The method provided here are pretty straight forward and easy to understand, as it has been written with the intention of enabling other programmers and developers learn how to encrypt data in their applications.
 This encryption method can be used for files, messages or any other data that needs to be encrypted in your application.
