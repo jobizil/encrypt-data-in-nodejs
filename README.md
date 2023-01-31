@@ -1,5 +1,23 @@
 # Encrypting and Decrypting Data in Nodejs
 
+### Learn how to encrypt and decrypt data in nodejs
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Installing Dependencies](#installing-dependencies)
+- [Modifying the package.json file](#modifying-the-packagejson-file)
+- [Creating the Config File](#creating-the-config-file)
+- [Creating the Server File](#creating-the-server-file)
+- [Creating the encryption Module](#creating-the-encryption-module)
+- [Creating the Routes](#creating-the-routes)
+- [Testing the Routes](#testing-the-routes)
+- [Conclusion](#conclusion)
+
+## Introduction
+
 This tutorial aims at teaching you how to encrypt and decrypt data in nodejs.
 The method provided here are pretty straight forward and easy to understand, as it has been written with the intention of enabling other programmers and developers learn how to encrypt data in their applications.
 This encryption method can be used for files, messages or any other data that needs to be encrypted in your application.
